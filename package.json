@@ -1,0 +1,27 @@
+{
+  "name": "zapteccost",
+  "version": "1.0.0",
+  "description": "Zaptec Cost calculations",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murdahl/zaptecCost.git"
+  },
+  "keywords": [
+    "zaptec"
+  ],
+  "author": "Ole Magnus Urdahl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murdahl/zaptecCost/issues"
+  },
+  "homepage": "https://github.com/murdahl/zaptecCost#readme"
+}
